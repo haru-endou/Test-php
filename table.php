@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="Arial">
-  <title>Page de Assad</title>
+  <title>Table php</title>
 </head>
 <body>
 
